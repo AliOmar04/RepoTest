@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Fatima Hasan
-=======
 Mohammed Almadhoon
 Ali Salem
->>>>>>> 83887fc92a2e55ccf6e26ca0d2b473103f57c33f
